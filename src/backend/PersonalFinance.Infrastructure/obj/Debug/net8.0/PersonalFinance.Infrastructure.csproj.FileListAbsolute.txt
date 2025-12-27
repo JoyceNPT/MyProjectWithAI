@@ -1,0 +1,17 @@
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Infrastructure\bin\Debug\net8.0\PersonalFinance.Infrastructure.deps.json
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Infrastructure\bin\Debug\net8.0\PersonalFinance.Infrastructure.runtimeconfig.json
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Infrastructure\bin\Debug\net8.0\PersonalFinance.Infrastructure.dll
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Infrastructure\bin\Debug\net8.0\PersonalFinance.Infrastructure.pdb
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Infrastructure\bin\Debug\net8.0\PersonalFinance.Core.dll
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Infrastructure\bin\Debug\net8.0\PersonalFinance.Core.pdb
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Infrastructure\obj\Debug\net8.0\PersonalFinance.Infrastructure.csproj.AssemblyReference.cache
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Infrastructure\obj\Debug\net8.0\PersonalFinance.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Infrastructure\obj\Debug\net8.0\PersonalFinance.Infrastructure.AssemblyInfoInputs.cache
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Infrastructure\obj\Debug\net8.0\PersonalFinance.Infrastructure.AssemblyInfo.cs
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Infrastructure\obj\Debug\net8.0\PersonalFinance.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Infrastructure\obj\Debug\net8.0\Personal.81BA262A.Up2Date
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Infrastructure\obj\Debug\net8.0\PersonalFinance.Infrastructure.dll
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Infrastructure\obj\Debug\net8.0\refint\PersonalFinance.Infrastructure.dll
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Infrastructure\obj\Debug\net8.0\PersonalFinance.Infrastructure.pdb
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Infrastructure\obj\Debug\net8.0\PersonalFinance.Infrastructure.genruntimeconfig.cache
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Infrastructure\obj\Debug\net8.0\ref\PersonalFinance.Infrastructure.dll

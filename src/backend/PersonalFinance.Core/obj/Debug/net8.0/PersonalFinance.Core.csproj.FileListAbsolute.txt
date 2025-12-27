@@ -1,0 +1,12 @@
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Core\obj\Debug\net8.0\PersonalFinance.Core.csproj.AssemblyReference.cache
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Core\obj\Debug\net8.0\PersonalFinance.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Core\obj\Debug\net8.0\PersonalFinance.Core.AssemblyInfoInputs.cache
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Core\obj\Debug\net8.0\PersonalFinance.Core.AssemblyInfo.cs
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Core\obj\Debug\net8.0\PersonalFinance.Core.csproj.CoreCompileInputs.cache
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Core\bin\Debug\net8.0\PersonalFinance.Core.deps.json
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Core\bin\Debug\net8.0\PersonalFinance.Core.dll
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Core\bin\Debug\net8.0\PersonalFinance.Core.pdb
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Core\obj\Debug\net8.0\PersonalFinance.Core.dll
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Core\obj\Debug\net8.0\refint\PersonalFinance.Core.dll
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Core\obj\Debug\net8.0\PersonalFinance.Core.pdb
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Core\obj\Debug\net8.0\ref\PersonalFinance.Core.dll

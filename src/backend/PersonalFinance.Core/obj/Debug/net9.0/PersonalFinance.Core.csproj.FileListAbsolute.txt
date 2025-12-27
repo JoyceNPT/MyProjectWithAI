@@ -1,0 +1,5 @@
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Core\obj\Debug\net9.0\PersonalFinance.Core.csproj.AssemblyReference.cache
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Core\obj\Debug\net9.0\PersonalFinance.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Core\obj\Debug\net9.0\PersonalFinance.Core.AssemblyInfoInputs.cache
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Core\obj\Debug\net9.0\PersonalFinance.Core.AssemblyInfo.cs
+D:\Document\AI\Rekkei\PersonalFinanceDashboard\src\backend\PersonalFinance.Core\obj\Debug\net9.0\PersonalFinance.Core.csproj.CoreCompileInputs.cache
